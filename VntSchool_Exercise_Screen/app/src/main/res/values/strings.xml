@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">VntSchool_Exercise_Screen</string>
+
+    <string name="app_email_text">E-mail</string>
+    <string name="app_password_text">Password</string>
+    <string name="app_create_account_text">Create new account</string>
+    <!-- Home fragment-->
+    <string name="fragment_home_login">Login</string>
+    <string name="fragment_home_forget">Forget password?</string>
+    <!-- New account fragment-->
+    <string name="fragment_new_account_text">New account</string>
+    <string name="fragment_new_account_name">Name</string>
+    <!-- Products fragment-->
+    <string name="fragment_products_no_products">You do not have any registered products</string>
+    <string name="item_list_price">Price:</string>
+    <!-- Bottom sheet fragment-->
+    <string name="fragment_bottom_sheet_price">Price</string>
+    <string name="fragment_bottom_sheet_save">Save</string>
+    <string name="fragment_bottom_sheet_delete">delete</string>
+    <string name="fragment_bottom_sheet_brl">R$</string>
+    <!-- State messages-->
+    <string name="message_valid">Account created successfully</string>
+    <string name="message_failure">Error creating new account</string>
+    <string name="message_failure_name">Name can not be blank</string>
+    <string name="message_failure_email">E-mail can not be blank and must be a valid e-mail</string>
+    <string name="message_failure_password">Password can not be blank and must be at least 8 characters</string>
+    <string name="message_authentication_valid">Login successful</string>
+    <string name="message_authentication_failure">Failed to login</string>
+    <string name="message_reset_success">An email has been sent to you</string>
+    <string name="message_reset_failure">Failed to send you an email</string>
+    <!-- Product state messages-->
+    <string name="message_product_success">Product registered successfully</string>
+    <string name="message_product_failure">Error registering product</string>
+    <string name="message_product_failure_name">Product name can not be blank</string>
+    <string name="message_product_failure_price">Product price can not be blank</string>
+    <string name="message_collect_failure">Error collecting the list of products</string>
+    <string name="message_delete_success">Product deleted successfully</string>
+    <string name="message_delete_failure">Error deleting product</string>
+</resources>

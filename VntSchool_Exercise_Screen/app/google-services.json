@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "157520428432",
+    "project_id": "vntschool-exercise",
+    "storage_bucket": "vntschool-exercise.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:157520428432:android:0ee935b771dffe27ed0715",
+        "android_client_info": {
+          "package_name": "com.jaquelinebruzasco.vntschool_exercise_screen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "157520428432-0lop4cothci6uqahgn2b0i1jon3p7piq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9I3wGxLxi5BJ6FGmiOU2_Hps6wa2HCxQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "157520428432-0lop4cothci6uqahgn2b0i1jon3p7piq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

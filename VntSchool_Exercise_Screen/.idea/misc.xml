@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/jaque/Documents/Git/AndroidVntSchool/VntSchool_Exercise_Screen/app/src/main/res/drawable/button_background.xml" value="0.2735" />
+        <entry key="..\:/Users/jaque/Documents/Git/AndroidVntSchool/VntSchool_Exercise_Screen/app/src/main/res/drawable/ic_icon_add.xml" value="0.2735" />
+        <entry key="..\:/Users/jaque/Documents/Git/AndroidVntSchool/VntSchool_Exercise_Screen/app/src/main/res/drawable/ic_icon_delete.xml" value="0.2735" />
+        <entry key="..\:/Users/jaque/Documents/Git/AndroidVntSchool/VntSchool_Exercise_Screen/app/src/main/res/drawable/ic_icon_email.xml" value="0.2735" />
+        <entry key="..\:/Users/jaque/Documents/Git/AndroidVntSchool/VntSchool_Exercise_Screen/app/src/main/res/drawable/ic_icon_password.xml" value="0.2735" />
+        <entry key="..\:/Users/jaque/Documents/Git/AndroidVntSchool/VntSchool_Exercise_Screen/app/src/main/res/drawable/ic_icon_save.xml" value="0.2735" />
+        <entry key="..\:/Users/jaque/Documents/Git/AndroidVntSchool/VntSchool_Exercise_Screen/app/src/main/res/drawable/ic_icon_user.xml" value="0.2735" />
+        <entry key="..\:/Users/jaque/Documents/Git/AndroidVntSchool/VntSchool_Exercise_Screen/app/src/main/res/drawable/ic_icon_user_.xml" value="0.2735" />
+        <entry key="..\:/Users/jaque/Documents/Git/AndroidVntSchool/VntSchool_Exercise_Screen/app/src/main/res/layout/activity_details.xml" value="0.3482789855072464" />
+        <entry key="..\:/Users/jaque/Documents/Git/AndroidVntSchool/VntSchool_Exercise_Screen/app/src/main/res/layout/activity_main.xml" value="0.3482789855072464" />
+        <entry key="..\:/Users/jaque/Documents/Git/AndroidVntSchool/VntSchool_Exercise_Screen/app/src/main/res/layout/fragment_bottom_sheet_product_registration.xml" value="0.3482789855072464" />
+        <entry key="..\:/Users/jaque/Documents/Git/AndroidVntSchool/VntSchool_Exercise_Screen/app/src/main/res/layout/fragment_create.xml" value="0.3482789855072464" />
+        <entry key="..\:/Users/jaque/Documents/Git/AndroidVntSchool/VntSchool_Exercise_Screen/app/src/main/res/layout/fragment_home.xml" value="0.3482789855072464" />
+        <entry key="..\:/Users/jaque/Documents/Git/AndroidVntSchool/VntSchool_Exercise_Screen/app/src/main/res/layout/fragment_new_account.xml" value="0.3482789855072464" />
+        <entry key="..\:/Users/jaque/Documents/Git/AndroidVntSchool/VntSchool_Exercise_Screen/app/src/main/res/layout/fragment_products.xml" value="0.3482789855072464" />
+        <entry key="..\:/Users/jaque/Documents/Git/AndroidVntSchool/VntSchool_Exercise_Screen/app/src/main/res/layout/fragment_registration.xml" value="0.3482789855072464" />
+        <entry key="..\:/Users/jaque/Documents/Git/AndroidVntSchool/VntSchool_Exercise_Screen/app/src/main/res/layout/item_list.xml" value="0.2626366120218579" />
+        <entry key="..\:/Users/jaque/Documents/Git/AndroidVntSchool/app/src/main/res/layout/activity_main.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

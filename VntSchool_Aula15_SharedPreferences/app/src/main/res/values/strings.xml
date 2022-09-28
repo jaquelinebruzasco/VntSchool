@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">VntSchool_Aula15_SharedPreferences</string>
+
+    <string name="dialog_message">Welcome to app!</string>
+</resources>

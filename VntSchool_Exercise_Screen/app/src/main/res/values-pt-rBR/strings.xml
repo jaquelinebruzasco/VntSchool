@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">VntSchool_Exercise_Screen</string>
+
+    <string name="app_email_text">E-mail</string>
+    <string name="app_password_text">Senha</string>
+    <string name="app_create_account_text">Criar nova conta</string>
+    <!-- Home fragment-->
+    <string name="fragment_home_login">Login</string>
+    <string name="fragment_home_forget">Esqueceu a senha?</string>
+    <!-- New account fragment-->
+    <string name="fragment_new_account_text">Nova conta</string>
+    <string name="fragment_new_account_name">Nome</string>
+    <!-- Products fragment-->
+    <string name="fragment_products_no_products">Você não possui nenhum produto cadastrado</string>
+    <string name="item_list_price">Preço:</string>
+    <!-- Bottom sheet fragment-->
+    <string name="fragment_bottom_sheet_price">Preço</string>
+    <string name="fragment_bottom_sheet_save">Salvar</string>
+    <string name="fragment_bottom_sheet_delete">Deletar</string>
+    <string name="fragment_bottom_sheet_brl">R$</string>
+    <!-- State messages-->
+    <string name="message_valid">Conta criada com sucesso</string>
+    <string name="message_failure">Erro ao criar nova conta</string>
+    <string name="message_failure_name">Nome não pode estar em branco</string>
+    <string name="message_failure_email">E-mail não pode estar em branco e deve ser um e-mail válido</string>
+    <string name="message_failure_password">Senha não pode estar em branco e deve ter no mínimo 8 characters</string>
+    <string name="message_authentication_valid">Sucesso ao fazer login</string>
+    <string name="message_authentication_failure">Falha ao fazer login</string>
+    <string name="message_reset_success">Um e-mail foi enviado a você</string>
+    <string name="message_reset_failure">Falha ao enviar um e-mail a você</string>
+    <!-- Product state messages-->
+    <string name="message_product_success">Produto registrado com sucesso</string>
+    <string name="message_product_failure">Erro ao registrar produto</string>
+    <string name="message_product_failure_name">Nome do produto não pode estar em branco</string>
+    <string name="message_product_failure_price">Preço do produto não pode estar em branco</string>
+    <string name="message_collect_failure">Erro ao coletar a lista de produtos</string>
+    <string name="message_delete_success">Produto deletado com sucesso</string>
+    <string name="message_delete_failure">Erro ao deletar produto</string>
+</resources>
