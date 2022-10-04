@@ -35,3 +35,7 @@ Lesson 15 - Data storage
 Lesson 16 - Data storage - Part 2
 
 Lesson 17 - Online requisitions
+
+Lesson 18 - Notifications and Permissions
+
+Lesson 19 - Accessibility
