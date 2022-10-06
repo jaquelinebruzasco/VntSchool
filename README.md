@@ -39,3 +39,5 @@ Lesson 17 - Online requisitions
 Lesson 18 - Notifications and Permissions
 
 Lesson 19 - Accessibility
+
+Lesson 20 - Debug
