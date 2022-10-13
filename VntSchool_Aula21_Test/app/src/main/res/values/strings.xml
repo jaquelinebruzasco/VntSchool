@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">VntSchool_Aula21_Test</string>
+    <string name="first_number">First number</string>
+    <string name="second_number">Second number</string>
+    <string name="btn_sum">+</string>
+    <string name="btn_subtraction">-</string>
+    <string name="btn_divide">/</string>
+    <string name="btn_exponentiation">^</string>
+</resources>

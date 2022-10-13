@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">VntSchool_Aula18_Notifications</string>
+
+    <string name="show_notification">Show notification</string>
+    <string name="request_permission">Request Permission</string>
+
+    <string name="notification_title">Notification</string>
+    <string name="notification_text">This is the notification</string>
+
+    <string name="notification_channel_name">Reminder notification</string>
+    <string name="notification_channel_description">Main notifications</string>
+
+    <string name="notification_no_permission">There is no permission</string>
+    <string name="notification_permission_received">Permission received</string>
+    <string name="notification_permission_not_granted">Permission not granted</string>
+    <string name="notification_permission_explanation">This permission is required for this access</string>
+</resources>
