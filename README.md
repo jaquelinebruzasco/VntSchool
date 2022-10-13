@@ -41,3 +41,7 @@ Lesson 18 - Notifications and Permissions
 Lesson 19 - Accessibility
 
 Lesson 20 - Debug
+
+Lesson 21 - Tests
+
+Lesson 22 - App publication
